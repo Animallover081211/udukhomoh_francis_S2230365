@@ -169,7 +169,7 @@ private static final String RSS_URL = "https://www.fx-exchange.com/gbp/rss.xml";
 
 **Francis Udukhomoh**  
 **Student ID**: S2230365  
-**Email**: francisudukhomoh515@gmail.com
+**Email**: Fudukh300@caledonain.ac.uk
 
 ## 📄 License
 
